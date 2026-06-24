@@ -1,6 +1,6 @@
 # IYF Weekend Academy — Season 11, Week 1
 
-**Live Site:** https://helter-skelter254.github.io/iyf-s11-week-01-helter-skelter254
+**Live Site:** https://helter-skelter254.github.io/iyf-s11-week-01-helter-skelter254/
 
 ## Tasks Completed
 - [x] Task 1.1 - Environment Setup
@@ -13,4 +13,4 @@
 - [x] Task 2.4 - Multi-Page Portfolio
 
 ## Article (Task 2.5)
-*(Add link here once written)*
+**Article link** https://dev.to/johndon/semantic-html-accessibility-what-i-learned-as-a-beginner-3nl2
