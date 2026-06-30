@@ -1,16 +1,19 @@
 # IYF Weekend Academy — Season 11, Week 1
 
 **Live Site:** https://helter-skelter254.github.io/iyf-s11-week-01-helter-skelter254/
+# Week one: {Personal Porfolio}
 
-## Tasks Completed
-- [x] Task 1.1 - Environment Setup
-- [x] Task 1.2 - DevTools Exploration
-- [x] Task 1.3 - First Webpage
-- [x] Task 1.4 - Deployed to GitHub Pages
-- [x] Task 2.1 - Semantic HTML Conversion
-- [x] Task 2.2 - Contact Form
-- [x] Task 2.3 - Accessibility Audit
-- [x] Task 2.4 - Multi-Page Portfolio
+## Author
+- **Name:** John Njuguna Kariuki
+- **GitHub:** @helter-skelter254 (https://github.com/helter-skelter254)
+- **Date:** 30/06/2026
 
+## Project Description
+This is a simple page that i am building to improve my skills in this world of web development.
+
+## Technologies Used
+- HTML5
+
+[View Live Demo](https://your-deployed-url.com)
 ## Article (Task 2.5)
 **Article link** https://dev.to/johndon/semantic-html-accessibility-what-i-learned-as-a-beginner-3nl2
