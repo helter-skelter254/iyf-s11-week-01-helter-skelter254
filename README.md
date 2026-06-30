@@ -1,6 +1,4 @@
 # IYF Weekend Academy — Season 11, Week 1
-
-**Live Site:** https://helter-skelter254.github.io/iyf-s11-week-01-helter-skelter254/
 # Week one: {Personal Porfolio}
 
 ## Author
@@ -14,6 +12,6 @@ This is a simple page that i am building to improve my skills in this world of w
 ## Technologies Used
 - HTML5
 
-[View Live Demo](https://your-deployed-url.com)
+[View Live Demo](h)
 ## Article (Task 2.5)
 **Article link** https://dev.to/johndon/semantic-html-accessibility-what-i-learned-as-a-beginner-3nl2
