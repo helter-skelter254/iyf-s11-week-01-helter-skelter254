@@ -12,6 +12,6 @@ This is a simple page that i am building to improve my skills in this world of w
 ## Technologies Used
 - HTML5
 
-[View Live Demo](h)
+[View Live Demo](https://helter-skelter254.github.io/iyf-s11-week-01-helter-skelter254/)
 ## Article (Task 2.5)
 **Article link** https://dev.to/johndon/semantic-html-accessibility-what-i-learned-as-a-beginner-3nl2
